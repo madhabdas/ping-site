@@ -5,12 +5,12 @@ repo: ping-site # The name of this repository
 sites:
   - name: IOB
     url: https://www.iob.in
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: IOBNET
+    url: https://www.iobnet.co.in
+  - name: Testapp
+    url: https://testapp.iobnet.org
+  - name: IOBpay
+    url: https://www.iobnet.co.in/iobpay/entry.do
   - name: IPv6 test
     url: forwardemail.net
     port: 80
