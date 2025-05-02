@@ -7,12 +7,10 @@ sites:
     url: https://www.iob.in
   - name: IOBNET
     url: https://www.iobnet.co.in
-  - name: Testapp
-    url: https://testapp.iobnet.org
+  
   - name: IOBpay
-    url: https://www.iobnet.co.in/iobpay/entry.do
-  - name: IPv6 test
-    url: forwardemail.net
+    url: https://iobnet.co.in/iobpay/entry.do
+
     port: 80
     check: "tcp-ping"
     ipv6: true
