@@ -7,11 +7,9 @@ sites:
     url: https://www.iob.in
   - name: IOBNET
     url: https://www.iobnet.co.in
-  
   - name: IOBpay
     url: https://iobnet.co.in/iobpay/entry.do
-
-    port: 80
+     port: 443
     check: "tcp-ping"
     ipv6: true
 
